@@ -1,7 +1,6 @@
-# ⚖️ Legal AI Africa — Assistant Juridique IA
+# ⚖️ Legal AI Kenya
 
-> An AI-powered legal assistant providing equitable access to justice for citizens of **Benin** and **Madagascar**.  
-> Built with FastAPI + LangChain + Supabase pgvector + Groq LLM + React.
+> An AI-powered legal assistant providing equitable access to justice for citizens of **Kenya**
 
 
 
@@ -27,9 +26,9 @@
 
 ## 🌍 Project Overview
 
-Legal AI Africa is a RAG (Retrieval-Augmented Generation) chatbot that helps citizens understand their legal rights in their own language (French/Malagasy). It searches a vectorized corpus of national legal documents and generates clear, accessible answers using a large language model.
+Legal AI Kenya is a RAG (Retrieval-Augmented Generation) chatbot that helps citizens understand their legal rights in their own language (English). It searches a vectorized corpus of national legal documents and generates clear, accessible answers using a large language model.
 
-**Pilot countries:** Madagascar 🇲🇬 and Benin 🇧🇯
+**Pilot countries:** Kenya**
 
 **Impact goal:** Reach 2 million users in 12 months, serving people who currently have no access to legal assistance.
 
